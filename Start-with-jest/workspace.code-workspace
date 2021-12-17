@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\JS_BACKNODE"
+		},
+		{
+			"path": "..\\..\\Babel+Webpack"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Sesion4"
+	}
+}
